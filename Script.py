@@ -10,10 +10,10 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 𝗁𝖾𝗋𝖾 𝗂𝗌 𝗍𝗁𝖾 𝗁𝖾𝗅𝗉 𝖿𝗈𝗋 𝖬𝗒 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌.</b>"""
 
-    ABOUT_TXT = """<b>⍟───[ <a href='https://t.me/BosskXbot'>𝑘𝑎𝑙𝑎𝑠ℎ𝑛𝑖𝑘𝑜𝑣</a>]───⍟
- ☂️ 𝖬𝗒 𝗇𝖺𝗆𝖾 : <a href=https://t.me/BosskXbot>𝘽𝙤𝙨𝙨𝙠🧿</a>
+    ABOUT_TXT = """<b>⍟───[ <a href='http://t.me/se_filesrobot'>𝚂𝙴𝙰𝚁𝙲𝙷𝙴𝙽𝙶𝙸𝙽𝙴</a>]───⍟
+ ☂️ 𝖬𝗒 𝗇𝖺𝗆𝖾 : <a href=https://t.me/se_filesrobot>𝚂𝙴𝙰𝚁𝙲𝙷𝙴𝙽𝙶𝙸𝙽𝙴🚒</a>
  ❄️ 𝖬𝗒 𝖻𝖾𝗌𝗍 𝖿𝗋𝗂𝖾𝗇𝖽 : <a href='tg://settings'>ಕ್ಲಿಕ್ ಮಾಡಿ🪂</a> 
- 🧩 𝖣𝖾𝗏𝗅𝗈𝗉𝖾𝗋 : <a href='https://t.me/venom_darshu'>𝙉𝙤𝙗𝙤𝙙𝙮❤️‍🩹</a> 
+ 🧩 𝖣𝖾𝗏𝗅𝗈𝗉𝖾𝗋 : <a href='https://t.me/SSA_TG'>𝑺𝑺𝑨_𝑻𝑮</a> 
  🔰 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : <a href='https://docs.pyrogram.org/'>𝗉𝗒𝗋𝗈𝗀𝗋𝖺𝗆✍🏻</a> 
  🪆 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : <a href='https://www.python.org/download/releases/3.0/'>𝗉𝗒𝗍𝗁𝗈𝗇 3</a> 
  🦸🏻 𝖣𝖺𝗍𝖺 𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com/'>𝗆𝗈𝗇𝗀𝗈 𝖽𝖻👅</a> 
@@ -23,9 +23,9 @@ class script(object):
     SOURCE_TXT = """
 <b>Hᴇʏ, 𝖳𝗁𝗂𝗌 𝗂𝗌 𝗇𝗈𝗍 𝖺𝗇 𝗈𝗉𝖾𝗇 𝗌𝗈𝗎𝗋𝖼𝖾 𝗉𝗋𝗈𝗃𝖾𝖼𝗍.
 
-𝖳𝗁𝗂𝗌 𝖻𝗈𝗍 𝗁𝖺𝗌 𝗅𝖺𝗍𝖾𝗌𝗍 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌⚡️𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝖽 𝖡𝗒 𝗄𝖺𝗇𝗇𝖺𝖽𝗂𝗀𝖺
+𝖳𝗁𝗂𝗌 𝖻𝗈𝗍 𝗁𝖺𝗌 𝗅𝖺𝗍𝖾𝗌𝗍 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌⚡️𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝖽 𝖡𝗒 SSA_TG
 
-𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋🧑🏻‍🎄 - <a href='https://t.me/venom_darshu'>𝙠𝙖𝙣𝙣𝙖𝙙𝙞𝙜𝙖🪆</a></b>"""
+𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋🧑🏻‍🎄 - <a href='https://t.me/SSA_TG'>𝑺𝑺𝑨_𝑻𝑮</a></b>"""
 
 
 
@@ -668,13 +668,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/venom'_darshu>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/SSA_TG'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
--Dev 2 <a href='https://t.me/lordgodmadhu'>Mad</a>
+-Dev 2 <a href='https://t.me/KSSATG'>kssatg</a>
 
--Dev 3 <a href='https://t.me/drn_bodd>Boss </> TɢX</a>
+-Dev 3 <a href='https://t.me/SSA_TG>𝑺𝑺𝑨_𝑻𝑮 </> TɢX</a>
 
-- Dev 4 <a href='https://t.me/vdmoviez'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/TKORIGINALS2'>TEAM VJ</a>
 """
 
 
